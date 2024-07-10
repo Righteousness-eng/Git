@@ -1,1 +1,1 @@
-An intro to GIT
+Git
